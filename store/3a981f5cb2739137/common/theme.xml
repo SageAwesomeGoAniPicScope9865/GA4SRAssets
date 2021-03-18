@@ -20764,6 +20764,7 @@
   <sound id="OverTime.mp3" name="OverTime?!" subtype="soundeffect" duration="15000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="Obvious.mp3" name="Obvious" subtype="soundeffect" duration="132000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="You Cant Copy My Homework.mp3" name="Can't Copy My Homework" subtype="soundeffect" duration="7000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="y2mate.com - I Gotta Feeling Lyrics.mp3" name=" y2mate.com - I Gotta Feeling Lyrics" subtype="bgmusic" duration="288629" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />                                                    
   <bubble id="blank11" x="-90" y="-45" w="180" h="90" rotate="0" type="BLANK" enable="Y" is_premium="N" aid="30362" money="0" sharing="0" hasTail="0" display_order="1">
   <body taily="65" tailx="90" linergb="0" rgb="0xFFFFFF"/>
   <text rgb="0" font="OstrichSansMedium" size="20" align="center" bold="false" italic="false">Double-click to input text</text>
